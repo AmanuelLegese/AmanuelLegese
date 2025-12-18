@@ -58,5 +58,4 @@ My GitHub usually contains useful projects using Laravel, Spring Boot, React, Do
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <br><br>
 
-[![Banner](https://codecrafters.io/images/byox-banner.gif)]([[https://AmanuelLegese@github.com](https://github.com/codecrafters-io/build-your-own-x)](https://github.com/codecrafters-io/build-your-own-x))
 [![Banner](https://codecrafters.io/images/updated-byox-banner.gif)](https://codecrafters.io/github-banner)

@@ -74,7 +74,26 @@
 ## 📊 Profile Summary
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmanuelLegese&theme=github_dark)
+
+## 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=AmanuelLegese&theme=github-dark&hide_border=true)
 ---
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/AmanuelLegese/AmanuelLegese/blob/output/github-contribution-grid-snake.svg)
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=AmanuelLegese&color=blue)
+## 📊 Profile Overview
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmanuelLegese&theme=github_dark)
+
+## 📈 Contribution Activity
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=AmanuelLegese&theme=github-dark&hide_border=true)
+
+
 ### ✍️ Random Dev Quote 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 

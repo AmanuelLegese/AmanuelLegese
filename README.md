@@ -71,6 +71,9 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmanuelLegese&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmanuelLegese&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmanuelLegese&theme=github_dark)
+## 📊 Profile Summary
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmanuelLegese&theme=github_dark)
 ---
 ### ✍️ Random Dev Quote 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

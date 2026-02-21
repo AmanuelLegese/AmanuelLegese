@@ -69,25 +69,18 @@
 > Build clean. Deploy reliably. Secure everything.
 
 ---
-
-### 🔝 Top Contributed Repo
+## 🏆 GitHub Status 
+![](https://github-profile-trophy.vercel.app/?username=AmanuelLegese&theme=radical&no-frame=false&no-bg=true&margin-w=4) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmanuelLegese&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmanuelLegese&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmanuelLegese&theme=github_dark)
 
 ![](https://github-contributor-stats.vercel.app/api?username=AmanuelLegese&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-# 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=AmanuelLegese&theme=prussian&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AmanuelLegese&theme=prussian&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanuelLegese&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
----
-## 🏆 GitHub Trophies 
-![](https://github-profile-trophy.vercel.app/?username=AmanuelLegese&theme=radical&no-frame=false&no-bg=true&margin-w=4) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmanuelLegese&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmanuelLegese&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmanuelLegese&theme=github_dark)
 
 ---
 ## 📊 Profile Summary

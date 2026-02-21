@@ -68,7 +68,9 @@
 ---
 ## 🏆 GitHub Trophies 
 ![](https://github-profile-trophy.vercel.app/?username=AmanuelLegese&theme=radical&no-frame=false&no-bg=true&margin-w=4) 
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmanuelLegese&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmanuelLegese&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmanuelLegese&theme=github_dark)
 ---
 ### ✍️ Random Dev Quote 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

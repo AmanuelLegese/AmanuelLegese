@@ -5,16 +5,16 @@
 [![Banner](https://codecrafters.io/images/updated-byox-banner.gif)](https://codecrafters.io/github-banner)
 
 ### Hi there, I'm Amanuel <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  
-**Backend Engineer | Laravel Specialist | DevOps & Cybersecurity Enthusiast | Open to Remote Opportunities**
+**Backend Engineer | Laravel Specialist | Spring Boot | Django | DevOps & Security Enthusiast | Open to Remote Opportunities**
 
 - 🌍 Open to **Remote Backend / DevOps roles**
-- 💼 Backend Developer (Laravel API & system architecture)
-- 🎓 Master’s student in Cybersecurity
+- 💼 Backend Developer specializing in **Laravel, Spring Boot, and Django APIs**
+- 🎓 BSc in Computer Science and Engineering
 - 🐳 Building and deploying applications using **Docker & Linux**
-- ☁️ Currently learning **AWS / Cloud & CI/CD**
-- 🛡️ Security-focused developer & Bug Bounty practitioner
+- ☁️ Currently learning **AWS, Cloud Infrastructure & CI/CD**
+- 🛡️ Security-focused developer and **Bug Bounty practitioner**
 - ⚡ Fun fact: I love watching and playing football
-- 📫 How to reach me: **amleaz2005@gmail.com**
+- 📫 Reach me: **amleaz2005@gmail.com**
 - 🤝 Open to collaboration on backend, DevOps, and open-source projects
 
 ---
@@ -40,24 +40,27 @@
 <br><br>
 
 ### 🚀 What you’ll find in my GitHub
-- Scalable **Laravel REST APIs**
-- Clean architecture using **Services, Traits, Observers, Policies**
+
+- Scalable **REST APIs** built with **Laravel, Django, and Spring Boot**
+- Clean architecture using **Services, Traits, Observers, Policies, and layered design**
 - Real-world systems:
   - School Management System (multi-level approval workflow)
   - Finance Management System
 - Dockerized development environments
-- Backend-focused projects with performance and security in mind
+- Backend-focused projects optimized for performance, scalability, and security
 
 ---
 
 ## 🌐 Socials:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Shellroot101) 
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Shellroot101)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?logo=web&logoColor=white)](https://amanuellegese.vercel.app/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%231DA9F2.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amanuel-legese-b4101891)
 
 ---
 
 # 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=AmanuelLegese&theme=prussian&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AmanuelLegese&theme=prussian&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanuelLegese&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
@@ -65,16 +68,19 @@
 ---
 
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=AmanuelLegese&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
 ### ✍️ Developer Mindset
+
 > Build clean. Deploy reliably. Secure everything.
 
 ---
 
 ### 🔝 Top Contributed Repo
+
 ![](https://github-contributor-stats.vercel.app/api?username=AmanuelLegese&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---

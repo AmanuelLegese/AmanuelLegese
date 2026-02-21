@@ -75,7 +75,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmanuelLegese&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmanuelLegese&theme=github_dark)
 
-![](https://github-contributor-stats.vercel.app/api?username=AmanuelLegese&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ![](https://github-readme-stats.vercel.app/api?username=AmanuelLegese&theme=prussian&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AmanuelLegese&theme=prussian&hide_border=true)<br/>

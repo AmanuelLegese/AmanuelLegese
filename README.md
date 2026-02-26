@@ -5,7 +5,7 @@
 [![Banner](https://codecrafters.io/images/updated-byox-banner.gif)](https://codecrafters.io/github-banner)
 
 ### Hi there, I'm Amanuel <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  
-**Backend Engineer | Laravel Specialist | Spring Boot | Django | DevOps & Bug Bounty Enthusiast | Open to Remote Opportunities**
+**Backend Engineer | Laravel Specialist | Spring Boot | Vuejs | Django | DevOps & Bug Bounty Enthusiast | Open to Remote Opportunities**
 
 - 🌍 Open to **Remote Backend / DevOps roles**
 - 💼 Backend Developer specializing in **Laravel, Spring Boot, and Django APIs**

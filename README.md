@@ -2,7 +2,6 @@
 **AmanuelLegese/AmanuelLegese** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 -->
 
-
 [![Banner](https://codecrafters.io/images/updated-byox-banner.gif)](https://codecrafters.io/github-banner)
 
 ### Hi there, I'm Amanuel <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  

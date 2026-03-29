@@ -72,7 +72,7 @@ Amanuel Legese - Backend Developer specializing in Laravel, Spring Boot, and Dja
     <tr>
       <td align="center">
         <a href="https://github.com/AmanuelLegese">
-          <img src="https://github-readme-stats.vercel.app/api?username=AmanuelLegese&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="AmanuelLegese GitHub stats" />
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmanuelLegese&theme=tokyonight" alt="AmanuelLegese GitHub stats" />
         </a>
       </td>
       <td align="center">
@@ -87,14 +87,12 @@ Amanuel Legese - Backend Developer specializing in Laravel, Spring Boot, and Dja
       </td>
       <td align="center">
         <a href="https://github.com/AmanuelLegese">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanuelLegese&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmanuelLegese&theme=tokyonight" alt="Top Languages" />
         </a>
       </td>
     </tr>
   </table>
   <br>
-  <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=AmanuelLegese&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
 </div>
 
 ---

@@ -2,45 +2,57 @@
 **AmanuelLegese/AmanuelLegese** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 -->
 
-[![Banner](https://codecrafters.io/images/updated-byox-banner.gif)](https://codecrafters.io/github-banner)
-
-### Hi there, I'm Amanuel <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  
-**Backend Engineer | Laravel Specialist | Spring Boot | Vuejs | Django | DevOps & Bug Bounty Enthusiast | Open to Remote Opportunities**
-
-- 🌍 Open to **Remote Backend / DevOps roles**
-- 💼 Backend Developer specializing in **Laravel, Spring Boot, and Django APIs**
-- 🎓 BSc in Computer Science and Engineering
-- 🐳 Building and deploying applications using **Docker & Linux**
-- ☁️ Currently learning **AWS, Cloud Infrastructure & CI/CD**
-- 🛡️ Security-focused developer and **Bug Bounty practitioner**
-- ⚡ Fun fact: I love watching and playing football
-- 📫 Reach me: **amleaz2005@gmail.com**
-- 🤝 Open to collaboration on backend, DevOps, and open-source projects
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=%3E+Initiating+session...;%3E+Amanuel+Legese+%2F%2F+Backend+Engineer;%3E+Specializing+in+Laravel%2C+Spring+Boot%2C+Django;%3E+Security-focused+%7C%7C+Linux+Enthusiast" alt="Typing SVG" />
+</div>
 
 ---
 
+### 📡 System Status: `ONLINE`
 
-<h3>Things I code with</h3>
-<p>
-  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img alt="Fedora" src="https://img.shields.io/badge/-Fedora-294172?style=flat-square&logo=fedora&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-  <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+  
+**`[Identity]`**<br>
+Amanuel Legese - Backend Developer specializing in Laravel, Spring Boot, and Django APIs.
 
-<br><br>
+**`[Coordinates]`**<br>
+🌍 Open to Remote Backend / DevOps roles
 
-### 🚀 What you’ll find in my GitHub
+**`[Comm_Link]`**<br>
+📫 amleaz2005@gmail.com
+
+</td>
+<td width="50%" valign="top">
+
+**`[Current_Directives]`**
+- 🐳 Building and deploying apps via **Docker & Linux**
+- ☁️ Actively learning **AWS, Cloud Infrastructure & CI/CD**
+- 🛡️ Security-focused developer & **Bug Bounty practitioner**
+- 🤝 Open to collaboration on backend & open-source
+
+</td>
+</tr>
+</table>
+
+---
+
+### 💻 Tech Stack Console
+
+| Backend & APIs | DevOps & OS | Tools & Frontend |
+| :--- | :--- | :--- |
+| <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <br><br> <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" /> <br><br> <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <br><br> <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> | <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <br><br> <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <br><br> <img src="https://img.shields.io/badge/-Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" /> | <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <br><br> <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <br><br> <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <br><br> <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" /> |
+
+---
+
+### 🚀 Mission Briefing (Projects)
+
+> **Developer Mindset:** `Build clean. Deploy reliably. Secure everything.`
+
+<details>
+<summary><b>[+] Expand to view architecture & project highlights</b></summary>
+<br>
 
 - Scalable **REST APIs** built with **Laravel, Django, and Spring Boot**
 - Clean architecture using **Services, Traits, Observers, Policies, and layered design**
@@ -49,52 +61,54 @@
   - Finance Management System
 - Dockerized development environments
 - Backend-focused projects optimized for performance, scalability, and security
+</details>
 
 ---
 
-## 🌐 Socials:
+### 📊 Telemetry & Data
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/zamanuTech)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?logo=web&logoColor=white)](https://amanuellegese.vercel.app/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%231DA9F2.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amanuel-legese-b4101891)
-
----
-
-### ✍️ Random Dev Quote 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-### ✍️ Developer Mindset
-
-> Build clean. Deploy reliably. Secure everything.
-
----
-## 🏆 GitHub Status 
-![](https://github-profile-trophy.vercel.app/?username=AmanuelLegese&theme=radical&no-frame=false&no-bg=true&margin-w=4) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmanuelLegese&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmanuelLegese&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmanuelLegese&theme=github_dark)
-
-
-![](https://github-readme-stats.vercel.app/api?username=AmanuelLegese&theme=prussian&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AmanuelLegese&theme=prussian&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanuelLegese&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-
----
-## 📊 Profile Summary
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmanuelLegese&theme=github_dark)
-
----
-## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=AmanuelLegese&color=blue)
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/AmanuelLegese">
+          <img src="https://github-readme-stats.vercel.app/api?username=AmanuelLegese&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="AmanuelLegese GitHub stats" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/AmanuelLegese">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmanuelLegese&theme=tokyonight&hide_border=true" alt="AmanuelLegese GitHub Streak" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmanuelLegese&theme=tokyonight" alt="GitHub Profile Details" />
+      </td>
+      <td align="center">
+        <a href="https://github.com/AmanuelLegese">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanuelLegese&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+        </a>
+      </td>
+    </tr>
+  </table>
+  <br>
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=AmanuelLegese&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
+</div>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=AmanuelLegese&icon=0&color=0)](https://visitcount.itsvg.in)
+### 🌐 Comm Channels
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=web&logoColor=white)](https://amanuellegese.vercel.app/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%231DA9F2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amanuel-legese-b4101891)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/zamanuTech)  
+
 <br><br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=AmanuelLegese&color=00FF99&style=for-the-badge)
+
+</div>

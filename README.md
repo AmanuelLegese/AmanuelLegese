@@ -15,7 +15,7 @@
 <td width="50%" valign="top">
   
 **`[Identity]`**<br>
-Amanuel Legese - Backend Developer specializing in Laravel, Spring Boot, and Django APIs.
+Amanuel Legese - Backend Developer specializing in Laravel, Spring Boot, Vuejs and Django APIs.
 
 **`[Coordinates]`**<br>
 🌍 Open to Remote Backend / DevOps roles
@@ -28,7 +28,7 @@ Amanuel Legese - Backend Developer specializing in Laravel, Spring Boot, and Dja
 
 **`[Current_Directives]`**
 - 🐳 Building and deploying apps via **Docker & Linux**
-- ☁️ Actively learning **AWS, Cloud Infrastructure & CI/CD**
+- ☁️ Actively **AWS, Cloud Infrastructure & CI/CD**
 - 🛡️ Security-focused developer & **Bug Bounty practitioner**
 - 🤝 Open to collaboration on backend & open-source
 

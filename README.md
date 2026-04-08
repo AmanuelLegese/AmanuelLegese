@@ -38,7 +38,7 @@ Amanuel Legese - Backend Developer specializing in Laravel, Spring Boot, Vuejs a
 
 ---
 
-### 💻 Tech Stack Console
+### 💻 Tech Stack's Console
 
 | Backend & APIs | Frontend | DevOps & OS | Tools & Databases |
 | :--- | :--- | :--- | :--- |
@@ -54,7 +54,7 @@ Amanuel Legese - Backend Developer specializing in Laravel, Spring Boot, Vuejs a
 <summary><b>[+] Expand to view architecture & project highlights</b></summary>
 <br>
 
-- Scalable **REST APIs** built with **Laravel, Django, and Spring Boot**
+- Scalable **REST APIs** built with **Laravel, Django, and Spring Boots**
 - Clean architecture using **Services, Traits, Observers, Policies, and layered design**
 - Real-world systems:
   - School Management System (multi-level approval workflow)

@@ -8,7 +8,7 @@
 
 ---
 
-### 📡 System Status: `ONLINE`
+### 📡 System Status: `ONLINE/Active`
 
 <table>
 <tr>

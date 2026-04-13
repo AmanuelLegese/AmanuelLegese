@@ -65,7 +65,7 @@ Amanuel Legese - Backend Developer specializing in Laravel, Spring Boot, Vuejs a
 
 ---
 
-### 📊 Telemetry & Data
+### 📊 Telemetry & Data's
 
 <div align="center">
   <table>
@@ -97,7 +97,7 @@ Amanuel Legese - Backend Developer specializing in Laravel, Spring Boot, Vuejs a
 
 ---
 
-### 🌐 Comm Channels
+### 🌐 Comm Channel's
 
 <div align="center">
 

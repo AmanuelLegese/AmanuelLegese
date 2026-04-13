@@ -28,7 +28,7 @@ Amanuel Legese - Backend Developer specializing in Laravel, Spring Boot, Vuejs a
 
 **`[Current_Directives]`**
 - 🐳 Building and deploying apps via **Docker & Linux**
-- ☁️ Actively **AWS, Cloud Infrastructure & CI/CD**
+- ☁️ Actively **AWS, google cloud & CI/CD**
 - 🛡️ Security-focused developer & **Bug Bounty practitioner**
 - 🤝 Open to collaboration on backend & open-source
 

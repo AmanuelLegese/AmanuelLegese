@@ -66,8 +66,20 @@ A Full-stack Backend Engineer focused on architecting secure, high-availability 
 <div align="center">
   <table border="0">
     <tr>
-      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmanuelLegese&theme=tokyonight" /></td>
-      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmanuelLegese&theme=tokyonight" /></td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmanuelLegese&theme=tokyonight" alt="Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmanuelLegese&theme=tokyonight&hide_border=true" alt="Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmanuelLegese&theme=tokyonight" alt="Languages" />
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmanuelLegese&theme=tokyonight" alt="Details" />
+      </td>
     </tr>
   </table>
 </div>

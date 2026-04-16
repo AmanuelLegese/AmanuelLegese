@@ -15,10 +15,11 @@
 <td width="50%" valign="top">
   
 **`[Identity]`**<br>
-Amanuel Legese - Backend Developer specializing in Laravel, Spring Boot, Vuejs and Django APIs.
+**Amanuel Legese** <br>
+Backend Engineer specialized in building robust APIs and scalable distributed systems using Laravel, Spring Boot, and Django.
 
 **`[Coordinates]`**<br>
-🌍 Open to Remote Backend / DevOps roles
+🌍 Open to Remote Backend / DevOps / Security roles
 
 **`[Comm_Link]`**<br>
 📫 amleaz2005@gmail.com
@@ -27,10 +28,10 @@ Amanuel Legese - Backend Developer specializing in Laravel, Spring Boot, Vuejs a
 <td width="50%" valign="top">
 
 **`[Current_Directives]`**
-- 🐳 Building and deploying apps via **Docker & Linux**
-- ☁️ Actively **AWS, google cloud & CI/CD**
-- 🛡️ Security-focused developer & **Bug Bounty practitioner**
-- 🤝 Open to collaboration on backend & open-source
+- 🐳 **Containerization:** Architecting environments via Docker
+- ☁️ **Cloud:** Scaling via AWS, Google Cloud & CI/CD Pipelines
+- 🛡️ **Security:** Bug Bounty practitioner & System Hardening
+- 🤝 **Open Source:** Seeking high-impact backend collaborations
 
 </td>
 </tr>
@@ -40,64 +41,61 @@ Amanuel Legese - Backend Developer specializing in Laravel, Spring Boot, Vuejs a
 
 ### 💻 Tech Stack's Console
 
-| Backend & APIs | Frontend | DevOps & OS | Tools & Databases |
-| :--- | :--- | :--- | :--- |
-| <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <br><br> <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" /> <br><br> <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <br><br> <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <br><br> <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <br><br> <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" /> <br><br> <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> | <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" /> <br><br> <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" /> | <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <br><br> <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <br><br> <img src="https://img.shields.io/badge/-Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" /> <br><br> <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> | <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <br><br> <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <br><br> <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <br><br> <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> |
+| **Backend & Core** | **DevOps & OS** | **Databases & Tools** |
+| :--- | :--- | :--- |
+| ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
+| ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | ![Fedora](https://img.shields.io/badge/-Fedora-294172?style=flat-square&logo=fedora&logoColor=white) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/-CI/CD-2088FF?style=flat-square&logo=github-actions&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) | ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
 
 ---
 
 ### 🚀 Mission Briefing (Projects)
 
-> **Developer Mindset:** `Build clean. Deploy reliably. Secure everything.`
+> **Core Philosophy:** `Build clean. Deploy reliably. Secure everything.`
 
 <details>
 <summary><b>[+] Expand to view architecture & project highlights</b></summary>
 <br>
 
-- Scalable **REST APIs** built with **Laravel, Django, and Spring Boots**
-- Clean architecture using **Services, Traits, Observers, Policies, and layered design**
-- Real-world systems:
-  - School Management System (multi-level approval workflow)
-  - Finance Management System
-- Dockerized development environments
-- Backend-focused projects optimized for performance, scalability, and security
+- 🏗️ **Scalable REST/GraphQL APIs:** Developed with **Laravel, Django, and Spring Boot** utilizing SOLID principles.
+- 🏛️ **Architecture Patterns:** Implementation of Service-Repository layers, Traits, Observers, and Policy-based authorization.
+- 💼 **Enterprise Systems:** 
+  - **School Management System:** Featuring multi-level approval workflows and complex RBAC.
+  - **Finance Management System:** Optimized for ACID compliance and data integrity.
+- ⚙️ **DevOps Integration:** Full Dockerization of legacy PHP/Python environments for seamless staging and production.
+- 🛡️ **Security Auditing:** Regular integration of security headers, OWASP best practices, and vulnerability scanning.
 </details>
 
 ---
 
-### 📊 Telemetry & Data's
+### 📊 Telemetry & Data
 
 <div align="center">
-  <table>
+  <table border="0">
     <tr>
-      <td align="center">
-        <a href="https://github.com/AmanuelLegese">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmanuelLegese&theme=tokyonight" alt="AmanuelLegese GitHub stats" />
-        </a>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmanuelLegese&theme=tokyonight" alt="Stats" />
       </td>
-      <td align="center">
-        <a href="https://github.com/AmanuelLegese">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmanuelLegese&theme=tokyonight&hide_border=true" alt="AmanuelLegese GitHub Streak" />
-        </a>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmanuelLegese&theme=tokyonight&hide_border=true" alt="Streak" />
       </td>
     </tr>
     <tr>
-      <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmanuelLegese&theme=tokyonight" alt="GitHub Profile Details" />
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmanuelLegese&theme=tokyonight" alt="Languages" />
       </td>
-      <td align="center">
-        <a href="https://github.com/AmanuelLegese">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmanuelLegese&theme=tokyonight" alt="Top Languages" />
-        </a>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmanuelLegese&theme=tokyonight" alt="Details" />
       </td>
     </tr>
   </table>
-  <br>
 </div>
 
 ---
 
-### 🌐 Comm Channel's
+### 🌐 Comm Channels
 
 <div align="center">
 
@@ -105,8 +103,8 @@ Amanuel Legese - Backend Developer specializing in Laravel, Spring Boot, Vuejs a
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%231DA9F2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amanuel-legese-b4101891)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/zamanuTech)  
 
-<br><br>
+<br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=AmanuelLegese&color=00FF99&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=AmanuelLegese&color=00FF99&style=for-the-badge&label=SYSTEM_ACCESS_COUNT)
 
 </div>

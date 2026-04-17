@@ -24,7 +24,7 @@ Addis Ababa, Ethiopia 🇪🇹 (Available for Global Remote)
 **`[Coordinates]`**<br>
 🌍 Open to Remote Backend / DevOps
 
-**`[Comm_Link]`**<br>
+**`[Communication_Link]`**<br>
 📫 [amleaz2005@gmail.com](mailto:amleaz2005@gmail.com) | [Portfolio](https://amanuellegese.vercel.app/)
 
 </td>

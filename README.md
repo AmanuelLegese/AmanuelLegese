@@ -159,7 +159,7 @@ Enterprise-ready academic tracking with complex Role-Based Access Control and mu
 
 ---
 
-### 🏛️ [Procurement Flow](https://github.com/AmanuelLegese)
+### 🏛️ [Procurement Management System](https://github.com/AmanuelLegese)
 `GovTech · Workflow · Audit`
 
 Multi-stage tender processing and purchase request tracking engine built to **government auditing standards**.
@@ -168,7 +168,7 @@ Multi-stage tender processing and purchase request tracking engine built to **go
 
 ---
 
-### 💳 [AB-Sun Registration](https://github.com/AmanuelLegese)
+### 💳 [AB-Sun Registration Management System](https://github.com/AmanuelLegese)
 `Fintech · Payments · Laravel`
 
 Applicant registration and filtering system with **Chapa payment gateway** integration for seamless consultancy fee collection.
@@ -177,7 +177,7 @@ Applicant registration and filtering system with **Chapa payment gateway** integ
 
 ---
 
-### 🛒 [Mela Organics E-Commerce](https://github.com/AmanuelLegese)
+### 🛒 [Mela Organics Portfolio](https://github.com/AmanuelLegese)
 `E-Commerce · SEO · WordPress`
 
 Responsive agriculture platform with product showcases and SEO optimization for organic liquid fertilizers.

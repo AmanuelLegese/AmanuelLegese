@@ -25,7 +25,7 @@
 ```json
 {
   "name"       : "Amanuel Legese",
-  "role"       : "Full-Stack Backend Engineer & Security Researcher(OWASP)",
+  "role"       : "Full-Stack Backend Engineer & Security(OWASP)",
   "location"   : "Addis Ababa, Ethiopia 🇪🇹",
   "remote"     : true,
   "clearance"  : "LEVEL 4",

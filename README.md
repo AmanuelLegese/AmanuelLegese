@@ -80,7 +80,7 @@
 </td>
 <td valign="top" width="25%">
 
-### ☁️ DevOps & Security(OWASP)
+### ☁️ DevOps & Security(OWASP Top 10)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)

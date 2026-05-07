@@ -193,7 +193,7 @@ Responsive agriculture platform with product showcases and SEO optimization for 
 ## `$ systemctl status security-research`
 
 ```
-● security-research.service — Active Bug Bounty & Malware Analysis
+● security-research.service — Active Bug Bounty & Malware Analysis(OWASP TOP 10)
    Loaded: enabled
    Active: ● running since 2020
    

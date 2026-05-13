@@ -194,7 +194,7 @@ Responsive agriculture platform with product showcases and SEO optimization for 
 
 ```
 ● security-research.service — Active Bug Bounty & Malware Analysis(OWASP TOP 10)
-   Loaded: enabled
+   Loaded: enableds
    Active: ● running since 2020
    
    → OWASP Top 10 compliance on all production systems

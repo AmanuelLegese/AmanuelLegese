@@ -1,36 +1,92 @@
-<!-- 
-**AmanuelLegese/AmanuelLegese** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
--->
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=%3E+Initiating+session...;%3E+Amanuel+Legese+%2F%2F+Backend+Engineer;%3E+Specializing+in+Laravel%2C+Spring+Boot%2C+Django;%3E+Security-focused+%7C%7C+Linux+Enthusiast" alt="Typing SVG" />
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│   ██████╗  ██████╗  ██████╗ ████████╗    ██╗   ██╗██████╗       │
+│  ██╔══██╗██╔═══██╗██╔═══██╗╚══██╔══╝    ██║   ██║╚════██╗       │
+│  ██████╔╝██║   ██║██║   ██║   ██║       ██║   ██║ █████╔╝       │
+│  ██╔══██╗██║   ██║██║   ██║   ██║       ╚██╗ ██╔╝ ╚═══██╗       │
+│  ██║  ██║╚██████╔╝╚██████╔╝   ██║        ╚████╔╝ ██████╔╝       │
+│  ╚═╝  ╚═╝ ╚═════╝  ╚═════╝   ╚═╝         ╚═══╝  ╚═════╝         │
+│                                                                 │
+│             Backend Engineer & System Designer                  │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00E5CC&center=true&vCenter=true&width=700&lines=%3E+Architecting+secure+backend+clusters+since+2020;%3E+Laravel+%7C+Spring+Boot+%7C+Django+%7C+Docker;%3E+OWASP+Top+10+%7C+Bug+Bounty+%7C+Malware+Analysis;%3E+Building+national-scale+systems+from+Addis+Ababa+%F0%9F%87%AA%F0%9F%87%B9;%3E+Available+for+Global+Remote+Opportunities)](https://git.io/typing-svg)
+
 </div>
 
 ---
 
-### 📡 System Status: `ONLINE`
+## `$ whoami`
+
+```json
+{
+  "name"       : "Amanuel Legese",
+  "role"       : "Full-Stack Backend Engineer & Security(OWASP Top 10)",
+  "location"   : "Addis Ababa, Ethiopia 🇪🇹",
+  "remote"     : true,
+  "clearance"  : "LEVEL 4",
+  "uptime"     : "4+ years",
+  "modules"    : "41+ production systems",
+  "current"    : "Architecting Enterprise Hospital & School Systems",
+  "focus"      : ["Backend API Clusters", "DevSecOps", "Malware Analysis", "Bug Bounty"],
+  "os"         : "Hardened Fedora Linux",
+  "contact"    : "amleaz2005@gmail.com"
+}
+```
+
+---
+
+## `$ cat /etc/profile.d/stack.sh`
 
 <table>
 <tr>
-<td width="50%" valign="top">
-  
-**`[Identity]`**<br>
-Amanuel Legese - Backend Engineer building REST APIs and scalable systems.
+<td valign="top" width="25%">
 
-**`[Coordinates]`**<br>
-🌍 Open to Remote Backend / DevOps roles
-
-**`[Comm_Link]`**<br>
-📫 amleaz2005@gmail.com
+### 🔧 Backend Core
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)
 
 </td>
-<td width="50%" valign="top">
+<td valign="top" width="25%">
 
-**`[Current_Directives]`**
-- 🐳 Building and deploying apps via **Docker & Linux**
-- ☁️ Actively learning **AWS, Cloud Infrastructure & CI/CD**
-- 🛡️ Security-focused developer & **Bug Bounty practitioner**
-- 🤝 Open to collaboration on backend & open-source
+### 🎨 Frontend & UI
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+
+</td>
+<td valign="top" width="25%">
+
+### 🗄️ Data & Architecture
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+
+</td>
+<td valign="top" width="25%">
+
+### ☁️ DevOps & Security(OWASP's Top 10)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Fedora_Linux-294172?style=flat-square&logo=fedora&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=white)
 
 </td>
 </tr>
@@ -38,76 +94,177 @@ Amanuel Legese - Backend Engineer building REST APIs and scalable systems.
 
 ---
 
-### 💻 Tech Stack Console
+## `$ ls -la ~/experience/`
 
-| Backend & APIs | Frontend | DevOps & OS | Tools & Databases |
-| :--- | :--- | :--- | :--- |
-| <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <br><br> <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" /> <br><br> <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <br><br> <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <br><br> <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <br><br> <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" /> <br><br> <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> | <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" /> <br><br> <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" /> | <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <br><br> <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <br><br> <img src="https://img.shields.io/badge/-Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" /> <br><br> <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> | <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <br><br> <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <br><br> <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <br><br> <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> |
+```bash
+$ cat system_impact_timeline.log
+```
 
----
-
-### 🚀 Mission Briefing (Projects)
-
-> **Developer Mindset:** `Build clean. Deploy reliably. Secure everything.`
-
-<details>
-<summary><b>[+] Expand to view architecture & project highlights</b></summary>
-<br>
-
-- Scalable **REST APIs** built with **Laravel, Django, and Spring Boot**
-- Clean architecture using **Services, Traits, Observers, Policies, and layered design**
-- Real-world systems:
-  - School Management System (multi-level approval workflow)
-  - Finance Management System
-- Dockerized development environments
-- Backend-focused projects optimized for performance, scalability, and security
-</details>
+| Period | Organization | Role | Impact |
+|--------|-------------|------|--------|
+| **2024 → Present** | 🏢 Hawi Software Solution | Backend Developer | TVET School Management System for Harambe University — scalable Laravel backend, secure RESTful APIs for academic operations |
+| **2020 → 2024** | 🎓 ASTU (Adama Science & Technology University) | Full-Stack Developer | Enterprise systems across departments — School, Clinic, Procurement, Document, Transport & National Exam platforms |
 
 ---
 
-### 📊 Telemetry & Data
+## `$ ls -la ~/projects/ --sort=impact`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 [HMS Laravel Backend](https://github.com/AmanuelLegese/HMS_laravel_backend)
+`GovTech · Healthcare · Laravel`
+
+Scalable Hospital Management System featuring automated patient records, pharmacy, lab and clinic workflows serving **5,000+ users**.
+
+> **Stack:** Laravel · MySQL · REST API · Docker
+
+---
+
+### 📊 [National Exit Exam Platform](https://github.com/AmanuelLegese)
+`GovTech · SecOps · High-Concurrency`
+
+High-concurrency secure assessment delivery system deployed at **national scale** for Ethiopia's Ministry of Education.
+
+> **Stack:** Laravel · Scalability · SecOps · Ubuntu Server
+
+---
+
+### 🔐 [Spring Boot 3 Auth API](https://github.com/AmanuelLegese/spring-boot-3-auth-api)
+`Security · Microservices · JWT`
+
+Security-first JWT/OAuth2 implementation for modern microservice architectures following OWASP Top 10 standards.
+
+> **Stack:** Spring Boot 3 · JWT · OAuth2 · PostgreSQL
+
+---
+
+### 🚌 [Transport AMS](https://github.com/AmanuelLegese)
+`Logistics · Automation · Analytics`
+
+Real-time fleet tracking and travel analytics with integrated **Telegram Bot automation** for university logistics.
+
+> **Stack:** Laravel · Telegram Bot API · MySQL · Analytics
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 [School Management Web App](https://github.com/AmanuelLegese/School-Management-System-Web-Application)
+`Education · RBAC · Multi-tenant`
+
+Enterprise-ready academic tracking with complex Role-Based Access Control and multi-tenant architecture.
+
+> **Stack:** Laravel · MySQL · React · Docker
+
+---
+
+### 🏛️ [Procurement Management System](https://github.com/AmanuelLegese)
+`GovTech · Workflow · Audit`
+
+Multi-stage tender processing and purchase request tracking engine built to **government auditing standards**.
+
+> **Stack:** Laravel · Workflow Engine · MySQL · Audit Trail
+
+---
+
+### 💳 [AB-Sun Registration Management System](https://github.com/AmanuelLegese)
+`Fintech · Payments · Laravel`
+
+Applicant registration and filtering system with **Chapa payment gateway** integration for seamless consultancy fee collection.
+
+> **Stack:** Laravel · Chapa API · MySQL · Auth0
+
+---
+
+### 🛒 [Mela Organics Portfolio](https://github.com/AmanuelLegese)
+`E-Commerce · SEO · WordPress`
+
+Responsive agriculture platform with product showcases and SEO optimization for organic liquid fertilizers.
+
+> **Stack:** PHP · WordPress · SEO · MySQL
+
+</td>
+</tr>
+</table>
+
+---
+
+## `$ systemctl status security-research`
+
+```
+● security-research.service — Active Bug Bounty & Malware Analysis(OWASP TOP 10)
+   Loaded: enableds
+   Active: ● running since 2020
+   
+   → OWASP Top 10 compliance on all production systems
+   → Python-based malware analysis & reverse engineering
+   → Active bug bounty hunter
+   → Security-first architecture design
+   → JWT / OAuth2 / Auth0 implementation specialist
+   → Hardened Fedora Linux production environment
+```
+
+---
+
+## `$ cat ~/telemetry/stats.log`
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/AmanuelLegese">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmanuelLegese&theme=tokyonight" alt="AmanuelLegese GitHub stats" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/AmanuelLegese">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmanuelLegese&theme=tokyonight&hide_border=true" alt="AmanuelLegese GitHub Streak" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmanuelLegese&theme=tokyonight" alt="GitHub Profile Details" />
-      </td>
-      <td align="center">
-        <a href="https://github.com/AmanuelLegese">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmanuelLegese&theme=tokyonight" alt="Top Languages" />
-        </a>
-      </td>
-    </tr>
-  </table>
-  <br>
+
+<table border="0">
+<tr>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmanuelLegese&theme=tokyonight" alt="GitHub Stats" />
+</td>
+<td>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AmanuelLegese&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmanuelLegese&theme=tokyonight" alt="Top Languages" />
+</td>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmanuelLegese&theme=tokyonight" alt="Profile Details" />
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
 
-### 🌐 Comm Channels
+## `$ ping amanuel.dev --establish-connection`
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amleaz2005@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=web&logoColor=white)](https://amanuellegese.vercel.app/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%231DA9F2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amanuel-legese-b4101891)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/zamanuTech)  
+```
+Establishing secure transmission...
+Verifying cryptographic signatures... [OK]
+Connection ready. Awaiting your message.
+```
 
-<br><br>
+[![Portfolio](https://img.shields.io/badge/Portfolio-amanuellegese.vercel.app-00E5CC?style=for-the-badge&logo=vercel&logoColor=white)](https://amanuellegese.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-amanuel--legese-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amanuel-legese-b4101891)
+[![Twitter/X](https://img.shields.io/badge/Twitter-@zamanuTech-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/zamanuTech)
+[![YouTube](https://img.shields.io/badge/YouTube-@amanwithlaravel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@amanwithlaravel)
+[![Telegram](https://img.shields.io/badge/Telegram-@Amani__leg-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Amani_leg)
+[![Email](https://img.shields.io/badge/Email-amleaz2005@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amleaz2005@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=AmanuelLegese&color=00FF99&style=for-the-badge)
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=AmanuelLegese&color=00E5CC&style=for-the-badge&label=SYSTEM_ACCESS_COUNT)
+
+<br/>
+
+```
+// Whether you need a national-scale GovTech system,
+// a secure microservice architecture, or a full-stack enterprise platform —
+// I'm here to architect your vision.
+
+> initiate_collaboration()
+```
+
+*© 2026 Amanuel Legese · Crafted with Precision from Addis Ababa 🇪🇹*
 
 </div>

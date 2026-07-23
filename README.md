@@ -15,7 +15,7 @@
 <td width="50%" valign="top">
   
 **`[Identity]`**<br>
-Amanuel Legese - Backend Developer specializing in Laravel, Spring Boot, and Django APIs.
+Amanuel Legese - Backend Engineer building REST APIs and scalable systems.
 
 **`[Coordinates]`**<br>
 🌍 Open to Remote Backend / DevOps roles
@@ -101,6 +101,7 @@ Amanuel Legese - Backend Developer specializing in Laravel, Spring Boot, and Dja
 
 <div align="center">
 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amleaz2005@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=web&logoColor=white)](https://amanuellegese.vercel.app/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%231DA9F2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amanuel-legese-b4101891)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/zamanuTech)  

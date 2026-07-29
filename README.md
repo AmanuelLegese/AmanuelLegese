@@ -35,6 +35,16 @@
 
 ---
 
+## `$ cat ~/currently.log`
+
+```bash
+> working_on  : TVET School Management System (Hawi Software)
+> learning    : AWS Solutions Architecture · System Design
+> open_to     : Backend roles · Open source collaboration · Bug bounty
+```
+
+---
+
 ## `$ cat /etc/profile.d/stack.sh`
 
 <div align="center">
@@ -105,6 +115,16 @@
 </td>
 </tr>
 </table>
+
+</div>
+
+---
+
+## `$ cat ~/telemetry/activity.log`
+
+<div align="center">
+
+![Amanuel's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AmanuelLegese&bg_color=1a1b27&color=00e5cc&line=00e5cc&point=ffffff&area=true&area_color=00e5cc&hide_border=true)
 
 </div>
 

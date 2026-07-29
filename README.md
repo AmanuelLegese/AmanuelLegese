@@ -141,7 +141,7 @@ Connection ready. Awaiting your message.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-amanuellegese.vercel.app-00E5CC?style=flat-square&logo=vercel&logoColor=white)](https://amanuellegese.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-amanuel--legese-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/amanuel-legese-b4101891)
-[![Twitter/X](https://img.shields.io/badge/Twitter-@zamanuTech-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/zamanuTech)
+[![Twitter/X](https://img.shields.io/badge/Twitter-@amanuel__devops-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/amanuel_devops)
 [![YouTube](https://img.shields.io/badge/YouTube-@amanwithlaravel-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@amanwithlaravel)
 [![Email](https://img.shields.io/badge/Email-amleaz2005@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:amleaz2005@gmail.com)
 

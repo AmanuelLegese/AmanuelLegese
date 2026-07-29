@@ -23,12 +23,12 @@
 ```json
 {
   "name"     : "Amanuel Legese",
-  "role"     : "Full-Stack Backend Engineer & Security Specialist",
+  "role"     : "Full-Stack Backend Engineer & System Designer",
   "location" : "Addis Ababa, Ethiopia 🇪🇹",
   "remote"   : true,
   "experience": "4+ years",
   "systems"  : "41+ production systems",
-  "focus"    : ["Backend APIs", "DevSecOps", "Malware Analysis", "Bug Bounty"],
+  "focus"    : ["Backend APIs", "Frontend", "DevOps", "Bug Bounty"],
   "contact"  : "amleaz2005@gmail.com"
 }
 ```

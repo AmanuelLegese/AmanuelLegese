@@ -26,7 +26,7 @@
   "role"     : "Full-Stack Backend Engineer & System Designer",
   "location" : "Addis Ababa, Ethiopia 🇪🇹",
   "remote"   : true,
-  "experience": "4+ years",
+  "experience": "4+ yrs",
   "systems"  : "41+ production systems",
   "focus"    : ["Backend APIs", "Frontend", "DevOps", "Bug Bounty", "System Designer"],
   "contact"  : "amleaz2005@gmail.com"

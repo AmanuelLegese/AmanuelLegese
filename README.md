@@ -136,7 +136,7 @@
 
 ```
 Establishing secure transmission...
-Connection ready. Awaiting your message.
+Connection ready. Awaiting your messages.
 ```
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-amanuellegese.vercel.app-00E5CC?style=flat-square&logo=vercel&logoColor=white)](https://amanuellegese.vercel.app/)

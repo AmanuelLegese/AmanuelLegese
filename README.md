@@ -8,7 +8,7 @@
 │ ██╔══██╗██║   ██║██║   ██║   ██║        ██║       │
 │ ██║  ██║╚██████╔╝╚██████╔╝   ██║        ██║       │
 │ ╚═╝  ╚═╝ ╚═════╝  ╚═════╝   ╚═╝        ╚═╝        │
-│  Full stack, Back-end Engineer & System Design     │
+│  Full stack, Back-end Engineer & System Design    │
 └───────────────────────────────────────────────────┘
 ```
 
@@ -39,8 +39,8 @@
 
 ```bash
 > working_on  : TVET School Management System (Hawi Software)
-> learning    : AWS Solutions Architecture · System Design
-> open_to     : Backend roles · Open source collaboration · Bug bounty
+> learning    : System Design
+> open_to     : Full stack - Backend roles · Open source collaboration · Bug bounty
 ```
 
 ---

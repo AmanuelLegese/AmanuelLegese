@@ -135,7 +135,7 @@
 <div align="center">
 
 ```
-Establishing secure transmission...
+Establishing secure transmissions...
 Connection ready. Awaiting your messages.
 ```
 

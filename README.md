@@ -23,7 +23,7 @@
 ```json
 {
   "name"     : "Amanuel Legese",
-  "role"     : "Full-Stack Backend Engineer & System Designer",
+  "role"     : "Full-Stack|Backend Engineer|System Designer",
   "location" : "Addis Ababa, Ethiopia 🇪🇹",
   "remote"   : true,
   "experience": "4+ yrs",

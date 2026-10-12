@@ -96,7 +96,7 @@
    Active: running since 2020
    → OWASP Top 10 compliance on all production systems
    → Python-based malware analysis & reverse engineering
-   → JWT / OAuth2 / Auth0 specialist
+   → JWT / OAuth2 / Auth0 specialists
 ```
 
 ---

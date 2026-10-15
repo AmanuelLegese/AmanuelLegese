@@ -2,17 +2,18 @@
 
 ```
 ┌───────────────────────────────────────────────────┐
-│  ██████╗  ██████╗  ██████╗ ████████╗  ████████╗   │
-│ ██╔══██╗██╔═══██╗██╔═══██╗╚══██╔══╝  ╚══██╔══╝      │ 
-│ ██████╔╝██║   ██║██║   ██║   ██║        ██║       │
-│ ██╔══██╗██║   ██║██║   ██║   ██║        ██║       │
-│ ██║  ██║╚██████╔╝╚██████╔╝   ██║        ██║       │
-│ ╚═╝  ╚═╝ ╚═════╝  ╚═════╝   ╚═╝        ╚═╝        │
-│  Full stack, Back-end Engineer & System Design    │
+│       ██████╗   ██████╗   ██████╗  ████████╗      │
+│       ██╔══██╗ ██╔═══██╗ ██╔═══██╗ ╚══██╔══╝      │
+│       ██████╔╝ ██║   ██║ ██║   ██║    ██║         │
+│       ██╔══██╗ ██║   ██║ ██║   ██║    ██║         │
+│       ██║  ██║ ╚██████╔╝ ╚██████╔╝    ██║         │
+│       ╚═╝  ╚═╝  ╚═════╝   ╚═════╝     ╚═╝         │
+│                                                   │
+│   Full-Stack · Back-end Engineer · System Design  │
 └───────────────────────────────────────────────────┘
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=00E5CC&center=true&vCenter=true&width=600&lines=%3E+Building+secure+backend+systems+since+2020;%3E+Laravel+%7C+Spring+Boot+%7C+Django+%7C+Docker;%3E+OWASP+Top+10+%7C+Bug+Bounty+%7C+Available+globally)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=00E5CC&center=true&vCenter=true&width=600&lines=%3E+Building+secure+backend+systems+since+2020;%3E+Laravel+%7C+Spring+Boot+%7C+Django+%7C+Docker;%3E+Payments+%7C+APIs+%7C+WordPress+CVE+research;%3E+Open+to+remote+backend+%2F+DevOps+roles)](https://git.io/typing-svg)
 
 </div>
 
@@ -39,6 +40,8 @@
 
 ```bash
 > working_on  : TVET School Management System (Hawi Software)
+> shipping    : omnipay-chapa — Chapa payment driver for Omnipay (PHP)
+> researching : Reverse-engineering WordPress CVEs (wp-cve-intel)
 > learning    : System Design
 > open_to     : Full stack - Backend roles · Open source collaboration · Bug bounty
 ```
@@ -78,13 +81,22 @@
 
 ## `$ ls -la ~/projects/ --sort=impact`
 
+> Production systems — client/institutional code, not public.
+
 | Project | Stack | Description |
 |---------|-------|-------------|
-| 🏥 [HMS Laravel Backend](https://github.com/AmanuelLegese/HMS_laravel_backend) | Laravel · MySQL · Docker | Hospital Management System serving **5,000+ users** — patient records, pharmacy, lab workflows |
-| 📊 [National Exit Exam Platform](https://github.com/AmanuelLegese) | Laravel · Ubuntu | High-concurrency secure assessment system deployed at **national scale** for Ethiopia's MoE |
-| 🎓 [School Management System](https://github.com/AmanuelLegese/School-Management-System-Web-Application) | Laravel · React · Docker | Enterprise academic tracking with RBAC and multi-tenant architecture |
-| 🔐 [Spring Boot 3 Auth API](https://github.com/AmanuelLegese/spring-boot-3-auth-api) | Spring Boot · JWT · PostgreSQL | Security-first JWT/OAuth2 implementation following OWASP Top 10 standards |
-| 🚌 [Transport AMS](https://github.com/AmanuelLegese) | Laravel · Telegram Bot | Fleet tracking and travel analytics with Telegram Bot automation |
+| 🏥 HMS Laravel Backend | Laravel · MySQL · Docker | Hospital Management System serving **5,000+ users** — patient records, pharmacy, lab workflows |
+| 📊 National Exit Exam Platform | Laravel · Ubuntu | High-concurrency secure assessment system deployed at **national scale** for Ethiopia's MoE |
+| 🎓 School Management System | Laravel · React · Docker | Enterprise academic tracking with RBAC and multi-tenant architecture |
+| 🚌 Transport AMS | Laravel · Telegram Bot | Fleet tracking and travel analytics with Telegram Bot automation |
+
+**Open source**
+
+| Project | Stack | Description |
+|---------|-------|-------------|
+| 💳 [omnipay-chapa](https://github.com/AmanuelLegese/omnipay-chapa) | PHP · Omnipay | Chapa (Ethiopian payment gateway) driver for the Omnipay payment library |
+| 🗺️ [geo-platform](https://github.com/AmanuelLegese/geo-platform) | Django REST · Next.js · PostgreSQL · Nginx | Containerized full-stack geo app behind an Nginx reverse proxy |
+| 🛡️ [wp-cve-intel](https://github.com/AmanuelLegese/wp-cve-intel) | Security research | Reverse-engineered WordPress CVEs |
 
 ---
 
@@ -95,6 +107,7 @@
    Loaded: enabled
    Active: running since 2020
    → OWASP Top 10 compliance on all production systems
+   → WordPress CVE reverse engineering → github.com/AmanuelLegese/wp-cve-intel
    → Python-based malware analysis & reverse engineering
    → JWT / OAuth2 / Auth0 specialists
 ```
@@ -111,7 +124,7 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmanuelLegese&theme=tokyonight" alt="GitHub Stats" />
 </td>
 <td>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AmanuelLegese&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=AmanuelLegese&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </td>
 </tr>
 </table>
@@ -130,7 +143,7 @@
 
 ---
 
-## `$ ping amanuel.dev --establish-connection`
+## `$ ping amanuellegese.vercel.app --establish-connection`
 
 <div align="center">
 
@@ -141,7 +154,7 @@ Connection ready. Awaiting your messages.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-amanuellegese.vercel.app-00E5CC?style=flat-square&logo=vercel&logoColor=white)](https://amanuellegese.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-amanuel--legese-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/amanuel-legese-b4101891)
-[![Twitter/X](https://img.shields.io/badge/Twitter-@amanuel__devops-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/amanuel_devops)
+[![X](https://img.shields.io/badge/X-@amanuel__devops-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/amanuel_devops)
 [![YouTube](https://img.shields.io/badge/YouTube-@amanwithlaravel-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@amanwithlaravel)
 [![Email](https://img.shields.io/badge/Email-amleaz2005@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:amleaz2005@gmail.com)
 

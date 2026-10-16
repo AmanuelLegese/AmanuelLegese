@@ -85,9 +85,9 @@
 
 | Project | Stack | Description |
 |---------|-------|-------------|
-| 🏥 HMS Laravel Backend | Laravel · MySQL · Docker | Hospital Management System serving **5,000+ users** — patient records, pharmacy, lab workflows |
+| 🏥 HMS Laravel Backend | Laravel · MySQL · Docker | Hospital Management Systems serving **5,000+ users** — patient records, pharmacy, lab workflows |
 | 📊 National Exit Exam Platform | Laravel · Ubuntu | High-concurrency secure assessment system deployed at **national scale** for Ethiopia's MoE |
-| 🎓 School Management System | Laravel · React · Docker | Enterprise academic tracking with RBAC and multi-tenant architecture |
+| 🎓 School Management System | Laravel · React · Docker | Enterprise academic tracking with RBAC and multi-tenants architecture |
 | 🚌 Transport AMS | Laravel · Telegram Bot | Fleet tracking and travel analytics with Telegram Bot automation |
 
 **Open source**

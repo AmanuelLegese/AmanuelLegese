@@ -143,7 +143,7 @@
 
 ---
 
-## `$ ping amanuellegese.vercel.app --establish-connection`
+## `$ ping amanuellegese.vercel.app --establish-connections`
 
 <div align="center">
 
